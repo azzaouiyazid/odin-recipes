@@ -3,6 +3,41 @@ html {
     background: linear-gradient(180deg, rgb(48, 213, 200), rgb(76.1, 69.8, 50.2));
 }
 
+.intro{
+    text-align: center;
+    border-style:inset;
+    
+    
+}
+.intro p{
+    font-size:x-large;
+    font-style: oblique;
+    
+}
+
+div.homepage_img {
+    
+  position:relative;
+  left:420px;
+  bottom:-50px ;
+    
+}
+
+.homepage_img img{
+    
+    width: 40vw;
+    height: 15vw;
+    box-shadow: 0vh 0vh 20vh rgb(196, 213, 48);
+    border-style: double;
+    border-color: rgb(196, 213, 48);
+    
+
+    
+    
+
+}
+
+
 
 
 header {
@@ -17,23 +52,36 @@ hr.rounded {
     border-radius: 50px;
 }
 
-img {
-    -webkit-animation: mover 2s infinite alternate;
+.content {
+    gap: 50px;
+    display: flex;
+}
+
+.content img{
+    
     animation: mover 2s infinite alternate;
     border-radius: 50%;
-    box-shadow: 0px 0px 20px rgb(48, 213, 200);
+    box-shadow: 0vh 0vh 5vh rgb(48, 213, 200);
+    
+    
     
 
+}
+.content p{
+    font-size:x-large;
+   
+
+    
+    
 }
 
 h1.header {
     text-align: center;
     font-style: oblique;
     color: black;
-    position: relative;
+   
 
 }
-
 .item {
     display: flex;
     flex-direction:column-reverse;
@@ -41,13 +89,12 @@ h1.header {
     align-items: center;
     width: 400px;
     height: 400px;
+    position: relative;
+   
     
     
 }
-.content {
-    gap: 50px;
-    display: flex;
-}
+
 
 @-webkit-keyframes mover {
     0% {
