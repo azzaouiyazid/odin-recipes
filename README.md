@@ -15,14 +15,12 @@ A simple HTML/CSS webpage for my first project of the foundations course on the 
 
 
 ## technologies 
- -Live-server : version 5.7.9.
- -git :version 2.38.1.
- -Visual studio code : version 1.72.2.
- 
-
+-Live-server : version 5.7.9.
+-git :version 2.38.1.
+-Visual studio code : version 1.72.2.
 ## project-objectives
-- initialization and implementation for git basic commands .
-- better understanding about html and css basics .
+- initialization and implementation for git basic commands
+- better understanding about html and css basics 
 - relationship between CSS , HTML and how to implement them to create websites.
 - Web developpement basics .
 - the project was also an initialization to virual machine , since the course expect the learner the use Xubuntu(or dual-booting)for the entire curriculum.
