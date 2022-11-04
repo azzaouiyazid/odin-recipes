@@ -1,0 +1,35 @@
+html {
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(48, 213, 200), rgb(76.1, 69.8, 50.2));
+}
+
+.header {
+    text-align: center;
+    border-style: inset;
+}
+
+.ingredients {
+
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.ingredients li {
+    position: relative;
+    left: 500px;
+    right: 500px;
+
+}
+
+.how-to-cook {
+    position: relative;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: white;
+
+}
+
+ul {
+    list-style: inside;
+}
