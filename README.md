@@ -1,7 +1,7 @@
 # odin-recipes
 ## Table of contents
 
-* [General info](#General info)
+* [General info](#General)
 * [Screenshots](#Screenshots)
 * [Technologies](#technologies)
 * [References](#references)
