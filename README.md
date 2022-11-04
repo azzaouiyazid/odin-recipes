@@ -1,2 +1,2 @@
-# odin-receipt
+# odin-recipes
 test
