@@ -3,17 +3,12 @@
 ## Table of contents
 
 * [General info](#General)
-* [Screenshots](#Screenshots)
 * [Technologies](#technologies)
 * [Project objectives](#project-objectives)
 * [References](#references)
 
 ## General info
 A simple HTML/CSS webpage for my first project of the foundations course on the Odin Project ,  implemented and handled by Git .
-
-## Screenshots
-
-
 ## technologies 
 - Live-server : version 5.7.9.
 - git :version 2.38.1.
