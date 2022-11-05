@@ -25,6 +25,6 @@ A simple HTML/CSS webpage for my first project of the foundations course on the 
 - Web developpement basics .
 - the project was also an initialization to virual machine , since the course expect the learner the use Xubuntu(or dual-booting)for the entire curriculum.
 ## references 
-- [git](https://www.theodinproject.com/lessons/foundations-git-basics)
+- [git commands](https://www.theodinproject.com/lessons/foundations-git-basics)
 - [recepies](https://onepiece.fandom.com/wiki/One_Piece_Pirate_Recipes)
 - [Odin project Assignement](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
